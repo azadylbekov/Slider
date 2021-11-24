@@ -1,0 +1,22 @@
+{
+	"name": "slider",
+	"version": "1.0.0",
+	"description": "swiper slider",
+	"main": "index.js",
+	"scripts": {
+		"test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+		"start": "live-server"
+	},
+	"keywords": [
+		"js"
+	],
+	"type": "module",
+	"author": "Azamat <azamat.adylbekov@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"live-server": "^1.2.1"
+	},
+	"devDependencies": {
+		"jest": "^27.3.1"
+	}
+}
